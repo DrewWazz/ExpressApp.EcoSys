@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExpressApp.EcoSys", "ExpressApp.EcoSys.njsproj", "{56C258B5-1759-4B80-A0C5-A195E9C22616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C258B5-1759-4B80-A0C5-A195E9C22616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C258B5-1759-4B80-A0C5-A195E9C22616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C258B5-1759-4B80-A0C5-A195E9C22616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C258B5-1759-4B80-A0C5-A195E9C22616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B2E328-FF16-4490-AEC3-7609343CDF2A}
+	EndGlobalSection
+EndGlobal
